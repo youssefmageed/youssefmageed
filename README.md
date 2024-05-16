@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/youssef_mageed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youssef_mageed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/youssef mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef mohamed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/youssef-mohamed-11aa6a179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef mohamed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24870685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24870685" height="30" width="40" /></a>
 <a href="https://instagram.com/youssef.mageed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youssef.mageed" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/youssef m mageed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="youssef m mageed" height="30" width="40" /></a>
